@@ -2,9 +2,10 @@ import React from "react";
 import { InfoCard, Card, CardContent, Row, Digit, InfoContainer, InfoTitle, InfoSubTitle } from "../styled/styledGlobal";
 import { RiExchangeLine, RiMoneyDollarCircleLine, RiWaterFlashLine } from "react-icons/ri";
 
-function Info() {
+const Info = () => {
   return (
-    <InfoCard>
+    <div>
+      <InfoCard>
       <Card>
         <CardContent>
           <Row>
@@ -41,7 +42,9 @@ function Info() {
         </CardContent>
       </Card>
     </InfoCard>
-  );
+    </div>
+  )
 }
 
-export default Info;
+export default Info
+
