@@ -1,12 +1,12 @@
 import React from "react";
 import styled from "styled-components";
 import { FiSearch } from "react-icons/fi";
+
 function Navbar() {
   return (
     <NavbarContainer>
       <Text>
-        Good morning,
-        <span> Kishan</span>
+        NeoBit Swap.
       </Text>
       <InputContainer>
         <Icon>

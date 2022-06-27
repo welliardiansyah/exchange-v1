@@ -1,8 +1,8 @@
 import React from "react";
 import styled from "styled-components";
 import Badge from "./Badge";
-import AvatarImage from "../assets/avatarImage5.jpg";
-import AvatarImage2 from "../assets/avatarImage6.jpg";
+import AvatarImage from "../assets/logo.png";
+import AvatarImage2 from "../assets/logo.png";
 import { cardShadow, hoverEffect } from "../utils";
 
 function Invoices() {
