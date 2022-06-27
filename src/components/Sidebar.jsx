@@ -1,5 +1,5 @@
 import React from "react";
-import { Containers, ProfileContainer, Avatar, Name, Links, Link, LinksContainer, AvatarSlider } from "../styled/styledGlobal";
+import { Containers, ProfileContainer, Name, Links, Link, LinksContainer, AvatarSlider } from "../styled/styledGlobal";
 import { RiStore2Fill, RiFileCopyLine, RiExchangeLine, RiLayoutColumnFill } from "react-icons/ri";
 import AvatarImage from "../assets/logo.png";
 
